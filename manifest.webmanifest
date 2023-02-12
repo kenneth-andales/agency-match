@@ -3,7 +3,7 @@
   "short_name": "Agency Match",
   "display": "standalone",
   "display_override": ["window-control-overlay", "minimal-ui"],
-  "start_url": "/",
+  "start_url": "https://kenneth-andales.github.io/agency-match/",
   "background_color": "#fff",
   "theme_color": "#fff",
   "icons": [
